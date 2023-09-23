@@ -14,7 +14,7 @@ This project was implemented in [MATLAB](https://www.mathworks.com/products/matl
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/arthur-ruback)
 
 - Leonardo Greco Picoli:
-    - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Gustavo-Jodar)
+    - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Picolau)
 
 - Matheus SANTOS SANO:
     - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/matsano)
