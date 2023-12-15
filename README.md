@@ -1,5 +1,5 @@
 # Estimation-and-Statistical-Identification
-Estimation and Statistical Identification Course (MA201) Project
+Estimation and Statistical Identification Course Project
 
 ## 📋 Description
 The project consists of target tracking using the extended Kalman filter (EKF).
